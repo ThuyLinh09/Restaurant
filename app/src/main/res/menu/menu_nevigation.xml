@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/list" android:title="Doanh thu" android:icon="@drawable/paper"/>
+    <item android:id="@+id/product" android:title="Sản phẩm" android:icon="@drawable/box"/>
+    <item android:id="@+id/love" android:title="Sản phẩm hot" android:icon="@drawable/love"/>
+    <item android:id="@+id/notification" android:title="Notification" android:icon="@drawable/bell"/>
+
+</menu>
